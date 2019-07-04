@@ -58,14 +58,14 @@
     {
         "id_product" : 9,
         "product_name": "Stereo system",
-        "price": 8500,
+        "price": 850,
         "image": "https://placeimg.com/200/150/tech"
     },
 
     {
         "id_product" : 10,
         "product_name": "Printer",
-        "price": 2450,
+        "price": 245,
         "image": "https://placeimg.com/200/150/tech"
     }
 ]
